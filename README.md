@@ -14,12 +14,23 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+|API Security 
+SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Intrusion Detection/Prevention Systems (IDS/IPS)         | SOC Automation Lab|
+| Web Application security      | SOC Automation Lab|
+| Digital Forensics                  | <a href="https://www.linkedin.com/posts/muhib-ullah-33a887251_velociraptor-kalilinux-digitalforensics-activity-7154544371554529280--_El?utm_source=share&utm_medium=member_desktop">Detection Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+API Security SEIM Query Proficiency
+ Penetration Testing Network Monitoring
+ Security Monitoring and analysis Intrusion Detection/Prevention Systems (IDS/IPS)
+ Threat-hunting Detection and Reporting
+ Web Application security Digital Forensics
+
+
+
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
