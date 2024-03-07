@@ -1,7 +1,6 @@
 # Hello, I'm Muhib Ullah
 <a href="www.linkedin.com/in/muhib-ullah-33a887251"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I'm a self-taught cybersecurity enthusiast with expertise in OWASP's top ten web and API pentesting and SOC analysis. I'm particularly interested in applying my skills to red teaming engagements and fostering collaboration through purple teaming approaches. This aligns with my passion for continuous learning, problem-solving, and strengthening digital security
 
@@ -56,5 +55,20 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+## Intrusion Detection and Prevention System Implementation 
+
+Installed and configured Snort, OSSEC, and Suricata on a Linux server. Developed and implemented security rules and
+policies to detect and prevent network and host-based attacks. Conducted ongoing testing and fine-tuning to ensure
+system effectiveness.
+
+## Proactive Threat-hunting with Zeek and Rita 
+
+Analyzed network logs collected with Zeek and Rita to identify potential security threats. Utilized Zeek's network
+traffic analysis capabilities to detect anomalous patterns and suspicious behavior. Leveraged Rita's threat-hunting
+framework to investigate potential indicators of compromise (IOCs).
+
+## Incident Response Investigation with Velociraptor
+
+Installed and configured Velociraptor on Kali Linux and a client on Windows. Conducted investigations into potential
+PUP and botnet activity using Velociraptor's capabilities. Analyzed findings and took appropriate remediation actions.
+Successfully identified and contained a PUP infection impacting Windows machines.
