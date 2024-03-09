@@ -49,7 +49,7 @@ SIEM Implementation and Log Analysis          | SOC Automation Lab|
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="//img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff&style=flat" />
 </div>
